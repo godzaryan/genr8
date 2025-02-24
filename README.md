@@ -1,7 +1,5 @@
 # Genr8
 
-![Genr8 Logo](https://via.placeholder.com/800x200.png?text=Genr8+-+AI+Code+Generator)
-
 ## 🚀 Overview
 **Genr8** is a powerful clipboard monitoring tool that leverages Google's **Gemini AI** to generate optimized, error-free code snippets on the fly. Whenever you copy a programming-related question, Genr8 automatically fetches the best possible code response and types it out for you instantly!
 
